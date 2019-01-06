@@ -105,3 +105,8 @@ def winner(board)
     return board[winning_index[0]]
   end
 end
+
+def play(board)
+  input = gets.strip
+  
+end
